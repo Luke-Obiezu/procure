@@ -1,9 +1,9 @@
 # My Git Practice Project
 This project demonstrates my understanding of Git and GitHub workflows.
 ## Author
-[Your Name]
+[Luke Obiezu]
 ## Date
-[Today's Date]
+[7th Feb 2026]
 ## Purpose
 Learning version control with Git and collaboration with GitHub.# procure
 
